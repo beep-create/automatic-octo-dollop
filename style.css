@@ -1,0 +1,33 @@
+body {
+    color:black;
+    background-color:lightcyan;
+    font-family: papyrus;
+    font-weight: bold;
+
+}
+.heading {
+    width: 80%;
+    font-size: 20px;
+    background-color: lightcoral;
+    font-family: papyrus;
+}
+.name_of_objects {
+    color:indianred;
+    font-family: papyrus;
+}
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+.btn-success {
+    background-color:lightseagreen;
+}
+#result_object_name, #result_object_accuracy{
+    color:lightsalmon;
+
+}
+#aObject {
+font-size: 20px;
+color:cadetblue;
+}
